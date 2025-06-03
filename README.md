@@ -1,6 +1,6 @@
 # Hi 👋, I'm Haval Khaleel
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username)
+![Profile views](https://komarev.com/ghpvc/?username=havalkhaleel)
 
 ## About Me 
 Passionate developer focused on building clean, efficient, and user-driven software.  I enjoy solving complex problems and building scalable solutions. My journey in technology has been driven by curiosity and a love for learning.

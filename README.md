@@ -62,15 +62,11 @@ Feel free to connect with me on any of these platforms:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## Projects 
-Here are some of my notable projects:
 
-- **Project 1**: [Repository Link](https://github.com/your-username/project-1)  - A brief description of the project.
-- **Project 2**: [Repository Link](https://github.com/your-username/project-2)  - Another interesting project I worked on.
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=havalkhaleel&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havalkhaleel&layout=compact&theme=dark)
 
 ## Fun Fact 
 💡 I once built a full-stack application in just 24 hours during a hackathon!

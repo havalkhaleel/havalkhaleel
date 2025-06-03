@@ -57,10 +57,10 @@ Passionate developer focused on building clean, efficient, and user-driven softw
 ## Connect with Me 
 Feel free to connect with me on any of these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haval-khaleel-2b52bab7/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=x-twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-handle/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/haval.creates/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:havalsindy5@gmail.com)
 
 
 
